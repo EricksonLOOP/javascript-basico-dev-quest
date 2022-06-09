@@ -16,12 +16,12 @@ function multiplo(numero1, numero2) {
 
 }
 
-function disivisor(numero1, numero2) {
-    let disivisor = 30 / 20;
-    return 'A soma dos dois números é: ' + disivisor;
+function divisor(numero1, numero2) {
+    let divisor = 30 / 20;
+    return 'A soma dos dois números é: ' + divisor;
 
 }
 console.log(somar())
 console.log(subtrair())
 console.log(multiplo())
-console.log(disivisor())
+console.log(divisor())
